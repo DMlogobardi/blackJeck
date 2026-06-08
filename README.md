@@ -1,10 +1,17 @@
-Progetto scolastico di conclusione anno 2021/2022.
-tengo a dire che la parte multyplayer è completamente inutilizata ma inserita a scopo dimostativo, oltre a essere non funzionante.
+English
 
-p.s. per scaricare il progetto usare git lfs altrimenti si corrompono i file musicali 
+School project developed during the 2021/2022 academic year.
+
+The repository includes an experimental multiplayer implementation added for demonstration and learning purposes. This feature was not used in the final version of the project and is not fully functional.
+
+Note: To download and run the project correctly, Git LFS is required. Downloading the repository without Git LFS may result in missing or corrupted audio files.
 
 ---------------------------------------------------------------------------------------------------------------
 
-School project for the end of the 2021/2022 year. I would like to say that the multiplayer part is completely unused but inserted for demonstration purposes, as well as not being functional. 
+Italiano
 
-p.s. to download the project use git lfs otherwise the music files will be corrupted
+Progetto scolastico sviluppato durante l'anno accademico 2021/2022.
+
+Il repository include un'implementazione sperimentale della modalità multiplayer, aggiunta a scopo dimostrativo e didattico. Questa funzionalità non è stata utilizzata nella versione finale del progetto e non è completamente funzionante.
+
+Nota: Per scaricare ed eseguire correttamente il progetto è necessario utilizzare Git LFS. Il download del repository senza Git LFS potrebbe causare la mancata acquisizione o la corruzione dei file audio.
